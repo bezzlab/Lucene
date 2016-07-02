@@ -29,7 +29,7 @@ public class LuceneIndexer extends DefaultHandler {
 
     public static void main(String args[]) throws Exception {
 
-        String mzIdFilepath = "/Users/sureshhewapathirana/Dropbox/TestData/1/ExampleMod.mzid";
+        String mzIdFilepath = "/Users/sureshhewapathirana/Google Drive/TestData/1/ExampleMod.mzid";
 //        String mzIdFilepath = "/Users/sureshhewapathirana/Dropbox/TestData/2/Galaxy36.mzid";
 //        String indexSavedDirectory = "/Users/sureshhewapathirana/Desktop/Galaxy36Index/";
         String indexSavedDirectory = "/Users/sureshhewapathirana/Desktop/ExampleModIndex/";
